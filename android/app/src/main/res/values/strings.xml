@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ChildrenLocation</string>
+    <string name="title_activity_main">ChildrenLocation</string>
+    <string name="package_name">com.yegucar.childrenlocation</string>
+    <string name="custom_url_scheme">com.yegucar.childrenlocation</string>
+</resources>
